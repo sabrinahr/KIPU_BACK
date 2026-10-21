@@ -1,2 +1,2 @@
 # KIPU
-Proyecto para el curso de Arquitectura de Software
+Backend para el proyecto del curso de Arquitectura de Software - KIPU
